@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster
+#Survival Prediction in Disaster using Machine Learning
 
 Predict survival on the Titanic
 
